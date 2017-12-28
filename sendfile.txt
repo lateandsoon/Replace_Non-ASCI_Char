@@ -1,0 +1,39 @@
+B  4601916AE                                  5501916  1   08585705835          
+10A916  35052573 460185705835    0140 XA          71229170111                   
+1102-04852310002-048523100               121817121517       NH                  
+20UA  4601121517E673                                                            
+SE13ANDREA TAYLOR                           817-412-7344                        
+210085                                                                          
+2200000001CTN                                                                   
+23M    01645798944                                                              
+23H    DSV00453750                                                              
+318B 353                                                                        
+SE30BY KOLLSMAN INC                                                             
+SE3515220 DANIEL WEBSTER HIGHWAY         15                                     
+SE36MERRIMACK                          NH       030544898      US               
+SE30SE ELBIT SYSTEM ELECTRO OPTICS ELOP LT                                      
+SE3515INDUSTRIAL SCIENCE PARK            15                                     
+SE36REHOVOT                                     7611101        IL               
+SE30MF ELBIT SYSTEM ELECTRO OPTICS ELOP LT                                      
+SE3515INDUSTRIAL SCIENCE PARK            15                                     
+SE36REHOVOT                                     7611101        IL               
+40  001 ILIL121517        0000000077508450000000008    Y                        
+47MILELBSYSREH                                                                  
+47S02-048523100                                                                 
+509802004040 0000000000 0000125000                                              
+OI        TOP ASSY BRU                                                          
+PG01001DTCDTC                                                                   
+PG02P                                                                           
+PG14 DD1M21817                                                                  
+PG14 S73730059014                                                               
+PG30A12182017                                                                   
+509031499000 0000000000 0000037500 000000000000X                                
+OI        TOP ASSY BRU                                                          
+PG01001FDABIO                                                                   
+PG02PFDP                                                                        
+PG0639                                                                          
+PG07                                                                            
+PG10                                                                            
+PG30A|Å                                                                        
+9000000000000 00000000000 00000000000 00000000000 00000000000                   
+Y  4601916AE                                                                    
